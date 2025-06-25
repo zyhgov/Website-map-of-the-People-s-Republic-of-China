@@ -261,10 +261,21 @@
             padding: 0 2px;
         }
     </style>
+    <style>
+    .cf-turnstile {
+        margin: 2rem auto;
+        text-align: center;
+    }
+    </style>
     <script src="/asset/js/search.js"></script>
     <script src="/asset/js/search2.js"></script>
     <script src="/asset/js/time.js"></script>
     <script src="/asset/js/hamburger.js"></script>
+    
+<!-- Cloudflare Turnstile 验证脚本 -->
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js"  async defer></script>
 
+<!-- Turnstile 小组件容器 -->
+<div class="cf-turnstile" data-sitekey="0x4AAAAAABiShZIb8uzFGBcn"></div>
 </body>
 </html>
