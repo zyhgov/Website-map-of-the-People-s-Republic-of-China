@@ -1,0 +1,682 @@
+{
+    "central": [
+        {
+            "department": "中央人民政府",
+            "url": "http://www.gov.cn",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "全国人民代表大会",
+            "url": "http://www.npc.gov.cn",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "中国人民政治协商会议全国委员会",
+            "url": "http://www.cppcc.gov.cn",
+            "logo": "/asset/govimages/全国政协标识.png"
+        },
+        {
+            "department": "国家监察委员会",
+            "url": "http://www.ccdi.gov.cn",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "最高人民法院",
+            "url": "http://www.court.gov.cn",
+            "logo": "/asset/govimages/人民法院标识.png"
+        },
+        {
+            "department": "最高人民检察院",
+            "url": "http://www.spp.gov.cn",
+            "logo": "/asset/govimages/检察院标识.png"
+        }
+    ],
+    "stateCouncil": [
+        {
+            "department": "外交部",
+            "url": "https://www.fmprc.gov.cn/web/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国防部",
+            "url": "http://www.mod.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家发展和改革委员会",
+            "url": "https://www.ndrc.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "教育部",
+            "url": "http://www.moe.gov.cn/",
+            "logo": "/asset/govimages/教育部标识.png"
+        },
+        {
+            "department": "科学技术部",
+            "url": "https://www.most.gov.cn/index.html",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "工业和信息化部",
+            "url": "https://www.miit.gov.cn/",
+            "logo": "/asset/govimages/工业和信息化部标识.png"
+        },
+        {
+            "department": "国家民族事务委员会",
+            "url": "https://www.neac.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "公安部",
+            "url": "https://www.mps.gov.cn/",
+            "logo": "/asset/govimages/警徽标识.png"
+        },
+        {
+            "department": "国家安全部",
+            "url": "",
+            "logo": "/asset/govimages/国家安全部标识.png"
+        },
+        {
+            "department": "民政部",
+            "url": "https://www.mca.gov.cn/",
+            "logo": "/asset/govimages/民政部标识.png"
+        },
+        {
+            "department": "司法部",
+            "url": "http://www.moj.gov.cn/",
+            "logo": "/asset/govimages/中国司法1.png"
+        },
+        {
+            "department": "财政部",
+            "url": "http://www.mof.gov.cn/index.htm",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "人力资源和社会保障部",
+            "url": "http://www.mohrss.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "自然资源部",
+            "url": "https://www.mnr.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "生态环境部",
+            "url": "https://www.mee.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "住房和城乡建设部",
+            "url": "https://www.mohurd.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "交通运输部",
+            "url": "https://www.mot.gov.cn/",
+            "logo": "/asset/govimages/交通运输部标识.png"
+        },
+        {
+            "department": "水利部",
+            "url": "http://www.mwr.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "农业农村部",
+            "url": "http://www.moa.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "商务部",
+            "url": "http://www.mofcom.gov.cn/",
+            "logo": "/asset/govimages/商务部标识.png"
+        },
+        {
+            "department": "文化和旅游部",
+            "url": "https://www.mct.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家卫生健康委员会",
+            "url": "http://www.nhc.gov.cn/",
+            "logo": "/asset/govimages/卫生部标识.png"
+        },
+        {
+            "department": "退役军人事务部",
+            "url": "http://www.mva.gov.cn/",
+            "logo": "/asset/govimages/退伍军人事务部标识.png"
+        },
+        {
+            "department": "应急管理部",
+            "url": "https://www.mem.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "中国人民银行",
+            "url": "http://www.pbc.gov.cn/",
+            "logo": "/asset/govimages/PBoC-Logo.jpg"
+        },
+        {
+            "department": "审计署",
+            "url": "https://www.audit.gov.cn/",
+            "logo": "/asset/govimages/审计署标识.png"
+        },
+        {
+            "department": "国家语言文字工作委员会",
+            "url": "http://www.moe.gov.cn/jyb_sy/China_Language/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家航天局",
+            "url": "http://www.cnsa.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家原子能机构",
+            "url": "http://www.caea.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家外国专家局",
+            "url": "",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家海洋局",
+            "url": "",
+            "logo": "/asset/govimages/State_Oceanic_Administration_of_P.R.China_badge.svg"
+        },
+        {
+            "department": "国家核安全局",
+            "url": "https://nnsa.mee.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家乡村振兴局",
+            "url": "",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国务院国有资产监督管理委员会",
+            "url": "http://www.sasac.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "海关总署",
+            "url": "http://www.customs.gov.cn/",
+            "logo": "/asset/govimages/海关标识.png"
+        },
+        {
+            "department": "国家税务总局",
+            "url": "http://www.chinatax.gov.cn/",
+            "logo": "/asset/govimages/税徽.png"
+        },
+        {
+            "department": "国家市场监督管理总局",
+            "url": "https://www.samr.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家金融监督管理总局",
+            "url": "https://www.nfra.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "中国证券监督管理委员会",
+            "url": "http://www.csrc.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家广播电视总局",
+            "url": "http://www.nrta.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家体育总局",
+            "url": "https://www.sport.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家信访局",
+            "url": "https://www.gjxfj.gov.cn/gjxfj/index.htm",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家统计局",
+            "url": "http://www.stats.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家知识产权局",
+            "url": "https://www.cnipa.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家国际发展合作署",
+            "url": "http://www.cidca.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家医疗保障局",
+            "url": "http://www.nhsa.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国务院参事室",
+            "url": "http://www.counsellor.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家机关事务管理局",
+            "url": "http://www.ggj.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家反垄断局",
+            "url": "",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家认证认可监督管理委员会",
+            "url": "http://www.cnca.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家标准化管理委员会",
+            "url": "http://www.sac.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家新闻出版署（国家版权局）",
+            "url": "https://www.nppa.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家宗教事务局",
+            "url": "https://www.sara.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国务院研究室",
+            "url": "https://www.gov.cn/guoqing/2018-06/22/content_5300522.htm",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国务院侨务办公室",
+            "url": "https://www.gqb.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国务院港澳事务办公室",
+            "url": "https://www.hmo.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国务院台湾事务办公室",
+            "url": "http://www.gwytb.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家互联网信息办公室",
+            "url": "http://www.cac.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国务院新闻办公室",
+            "url": "http://www.scio.gov.cn/index.htm",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "新华通讯社",
+            "url": "http://www.news.cn/xinhuashe/",
+            "logo": "/asset/govimages/xinhuashe.png"
+        },
+        {
+            "department": "中国科学院",
+            "url": "https://www.cas.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "中国社会科学院",
+            "url": "http://www.cass.cn/",
+            "logo": "/asset/govimages/shehuikexueyuan.png"
+        },
+        {
+            "department": "中国工程院",
+            "url": "https://www.cae.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国务院发展研究中心",
+            "url": "https://www.drc.gov.cn/default.aspx",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "中央广播电视总台",
+            "url": "https://www.cnr.cn/",
+            "logo": "/asset/govimages/cmg.png"
+        },
+        {
+            "department": "中国气象局",
+            "url": "https://www.cma.gov.cn/",
+            "logo": "/asset/govimages/中央气象台标识.png"
+        },
+        {
+            "department": "国家行政学院",
+            "url": "https://www.ccps.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家粮食和物资储备局",
+            "url": "http://www.lswz.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家能源局",
+            "url": "http://www.nea.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家数据局",
+            "url": "https://www.nda.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家国防科技工业局",
+            "url": "http://www.sastind.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家烟草专卖局",
+            "url": "http://www.tobacco.gov.cn/gjyc/index.shtml",
+            "logo": "/asset/govimages/yancao.png"
+        },
+        {
+            "department": "国家移民管理局",
+            "url": "https://www.nia.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家林业和草原局",
+            "url": "http://www.forestry.gov.cn/",
+            "logo": "/asset/govimages/国家林业局标识.png"
+        },
+        {
+            "department": "国家铁路局",
+            "url": "https://www.nra.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "中国民用航空局",
+            "url": "http://www.caac.gov.cn/index.html",
+            "logo": "/asset/govimages/CAAC_logo.svg"
+        },
+        {
+            "department": "国家邮政局",
+            "url": "https://www.spb.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家文物局",
+            "url": "http://www.ncha.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家中医药管理局",
+            "url": "http://www.natcm.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家疾病预防控制局",
+            "url": "https://www.ndcpa.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家矿山安全监察局",
+            "url": "https://www.chinamine-safety.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家消防救援局",
+            "url": "https://www.119.gov.cn/",
+            "logo": "/asset/govimages/CHINA_FIRE_AND_RESCUE_badge.svg"
+        },
+        {
+            "department": "国家外汇管理局",
+            "url": "http://www.safe.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国家药品监督管理局",
+            "url": "https://www.nmpa.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        }
+    ],
+    "local": [
+        {
+            "department": "北京市人民政府",
+            "url": "http://www.beijing.gov.cn/",
+            "logo": "/asset/govimages/beijing.png"
+        },
+        {
+            "department": "天津市人民政府",
+            "url": "https://www.tj.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "河北省人民政府",
+            "url": "http://www.hebei.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "山西省人民政府",
+            "url": "http://www.shanxi.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "内蒙古自治区人民政府",
+            "url": "https://www.nmg.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "辽宁省人民政府",
+            "url": "http://www.ln.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "吉林省人民政府",
+            "url": "http://www.jl.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "黑龙江省人民政府",
+            "url": "https://www.hlj.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "上海市人民政府",
+            "url": "https://www.shanghai.gov.cn/",
+            "logo": "/asset/govimages/shanghai.png"
+        },
+        {
+            "department": "江苏省人民政府",
+            "url": "http://www.jiangsu.gov.cn/",
+            "logo": "/asset/govimages/jiangsu.png"
+        },
+        {
+            "department": "浙江省人民政府",
+            "url": "https://www.zj.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "安徽省人民政府",
+            "url": "https://www.ah.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "福建省人民政府",
+            "url": "http://www.fujian.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "江西省人民政府",
+            "url": "http://www.jiangxi.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "山东省人民政府",
+            "url": "http://www.shandong.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "河南省人民政府",
+            "url": "https://www.henan.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "湖北省人民政府",
+            "url": "http://www.hubei.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "湖南省人民政府",
+            "url": "http://www.hunan.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "广东省人民政府",
+            "url": "http://www.gd.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "广西壮族自治区人民政府",
+            "url": "http://www.gxzf.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "海南省人民政府",
+            "url": "https://www.hainan.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "重庆市人民政府",
+            "url": "http://www.cq.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "四川省人民政府",
+            "url": "https://www.sc.gov.cn/",
+            "logo": "/asset/govimages/sichuan.png"
+        },
+        {
+            "department": "贵州省人民政府",
+            "url": "http://www.guizhou.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "云南省人民政府",
+            "url": "https://www.yn.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "西藏自治区人民政府",
+            "url": "http://www.xizang.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "陕西省人民政府",
+            "url": "http://www.shaanxi.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "甘肃省人民政府",
+            "url": "http://www.gansu.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "青海省人民政府",
+            "url": "http://www.qinghai.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "宁夏回族自治区人民政府",
+            "url": "https://www.nx.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "新疆维吾尔自治区人民政府",
+            "url": "http://www.xinjiang.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "新疆生产建设兵团",
+            "url": "http://www.xjbt.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        }
+    ],
+    "hongkongMacau": [
+        {
+            "department": "香港特别行政区政府",
+            "url": "http://www.gov.hk",
+            "logo": "/asset/govimages/Regional_Emblem_of_Hong_Kong.svg"
+        },
+        {
+            "department": "澳门特别行政区政府",
+            "url": "http://www.gov.mo",
+            "logo": "/asset/govimages/Regional_Emblem_of_Macau.svg"
+        },
+        {
+            "department": "台湾行政当局",
+            "url": "https://www.gov.tw",
+            "logo": "/asset/govimages/National_Emblem_of_the_Republic_of_China.svg"
+        },
+        {
+            "department": "中央人民政府驻香港特别行政区联络办公室",
+            "url": "http://www.locpg.gov.cn",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "中央人民政府驻澳门特别行政区联络办公室",
+            "url": "http://www.locpg.gov.mo",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "国务院台湾事务办公室",
+            "url": "http://www.gwytb.gov.cn/",
+            "logo": "/asset/govimages/national-emblem.png"
+        }
+    ],
+    "overseas": [
+        {
+            "department": "中国驻联合国代表团",
+            "url": "http://un.china-mission.gov.cn",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "中国驻美国大使馆",
+            "url": "http://us.china-embassy.gov.cn",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "中国驻日本大使馆",
+            "url": "http://jp.china-embassy.gov.cn",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "中国驻英国大使馆",
+            "url": "http://uk.china-embassy.gov.cn",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "中国驻法国大使馆",
+            "url": "http://fr.china-embassy.gov.cn",
+            "logo": "/asset/govimages/national-emblem.png"
+        },
+        {
+            "department": "更多驻外机构",
+            "url": "https://www.gov.cn/home/2023-03/29/content_5748956.htm",
+            "logo": "/asset/govimages/national-emblem.png"
+        }
+    ]
+}
