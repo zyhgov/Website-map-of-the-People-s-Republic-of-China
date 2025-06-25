@@ -1,0 +1,187 @@
+        body {
+            font-family: 'OpenAISans-Regular', sans-serif;
+        }
+        h1, h2, h3, h4 {
+            font-family: 'OpenAISans-Semibold', sans-serif;
+        }
+        @media (max-width: 640px) {
+            .header-title::before {
+                content: "中华人民共和国";
+                display: block;
+            }
+            .header-title::after {
+                /* content: "部门网站地图"; */
+                display: block;
+            }
+            .header-title {
+                text-indent: -9999px;
+                line-height: 1.2;
+            }
+            .container {
+                padding-left: 1rem;
+                padding-right: 1rem;
+            }
+            .small-screen-layout .logo-container {
+                margin-bottom: 0.5rem;
+            }
+            .small-screen-layout h1 {
+                margin-bottom: 0.5rem;
+            }
+            .small-screen-layout p {
+                margin-bottom: 1rem;
+            }
+        }
+        .status-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            position: absolute;
+            top: 8px;
+            right: 8px;
+        }
+        .status-green {
+            background-color: #22c55e; /* Tailwind green-500 */
+        }
+        .status-yellow {
+            background-color: #eab308; /* Tailwind yellow-500 */
+        }
+        .status-gray {
+            background-color: #6b7280; /* Tailwind gray-500 */
+        }
+        /* Loading overlay styles */
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #f3f4f6; /* Tailwind bg-gray-100 */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            opacity: 1;
+            transition: opacity 0.5s ease-out;
+        }
+        .loading-overlay.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+        .logo-glow {
+            animation: glow 1.5s ease-in-out infinite;
+        }
+        @keyframes glow {
+            0% {
+                filter: drop-shadow(0 0 5px #ed251f) drop-shadow(0 0 15px #ed251f);
+            }
+            33% {
+                filter: drop-shadow(0 0 10px #fcd131) drop-shadow(0 0 20px #fcd131);
+            }
+            66% {
+                filter: drop-shadow(0 0 15px #e9be29) drop-shadow(0 0 25px #e9be29);
+            }
+            100% {
+                filter: drop-shadow(0 0 5px #ed251f) drop-shadow(0 0 15px #ed251f);
+            }
+        }
+        .skeleton-text {
+            width: 220px;
+            height: 24px;
+            background: linear-gradient(90deg, #e5e7eb 25%, #f3f4f6 50%, #e5e7eb 75%);
+            background-size: 200% 100%;
+            animation: shimmer 1.5s infinite;
+            margin: 4px 0;
+            border-radius: 4px;
+        }
+        @keyframes shimmer {
+            0% {
+                background-position: 200% 0;
+            }
+            100% {
+                background-position: -200% 0;
+            }
+        }
+        /* Search Modal Styles */
+        #search-modal {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(5px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 50;
+            padding: 1rem;
+            /* Ensure hidden by default */
+            display: none;
+        }
+        #search-modal.hidden {
+            display: none;
+        }
+        #search-modal.visible {
+            display: flex;
+        }
+        #search-box {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            border-radius: 0.75rem; /* rounded-xl */
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+            padding: 1.5rem;
+            width: 100%;
+            max-width: 28rem; /* Adjusted for better centering */
+            transition: all 0.3s ease-in-out;
+        }
+        #close-search {
+            position: absolute;
+            top: 0.75rem;
+            right: 0.75rem;
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: #6b7280;
+        }
+        #search-input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #d1d5db;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+        }
+        #search-stats {
+            font-size: 0.875rem;
+            color: #6b7280;
+            margin-bottom: 0.5rem;
+        }
+        #search-results {
+            max-height: 24rem;
+            overflow-y: auto;
+        }
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 8px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #ccc;
+            border-radius: 10px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+            background: #aaa;
+        }
+        @media (min-width: 640px) {
+            #search-box {
+                max-width: 36rem;
+            }
+        }
+        mark {
+            background-color: #fefcbf;
+            padding: 0 2px;
+        }
