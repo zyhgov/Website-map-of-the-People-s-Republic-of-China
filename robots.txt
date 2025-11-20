@@ -1,5 +1,4 @@
 User-agent: *
 Disallow:
 
-
-Sitemap: https://gov.unhub.dpdns.org/sitemap.xml 
+Sitemap: https://gov.unhub.dpdns.org/sitemap.xml
